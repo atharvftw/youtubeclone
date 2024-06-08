@@ -1,4 +1,4 @@
-# VueTube RESTful API - YouTube Clone
+RESTful API - YouTube Clone
 
 > VueTube is a YouTube clone built with nodejs, expressjs & mongodb.
 
