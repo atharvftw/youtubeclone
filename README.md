@@ -145,7 +145,8 @@ node run dev
 
 ![Screenshot](screenshots/16%20-%20Upload%20Thumbnail%20Modal.jpg)
 
-For more screenshots check out the vue frontend repo [VueTube](https://github.com/techreagan/vue-nodejs-youtube-clone)
+For more screenshots check out the vue frontend repo [VueTube] 
+
 
 ## License
 
